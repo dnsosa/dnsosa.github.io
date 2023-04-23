@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: assets/resume/resume.csv
 
-url: https://dnsosa.github.io
+url: https://dansosa.me
 # your url: https://dnsosa.github.io
 
 permalink: /:title/
