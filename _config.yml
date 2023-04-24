@@ -1,6 +1,6 @@
 # main text of home
 title: Dan Sosa
-bio: NLP + AI + Biomedical Data Scientist by day, Culinary Musician by night.
+bio: NLP + AI + Biomedical Data Scientist by day,\nCulinary Musician by night.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -30,15 +30,15 @@ analytics-google: 'G-D46T6G97ZX'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: https-www-dansosa-me
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: dan.sosa.75 
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
+linkedin: dan-sosa-34392064 
+github: dnsosa 
 # email: myemail@gmail.com
 
 authors:
@@ -66,7 +66,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
