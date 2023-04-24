@@ -1,6 +1,6 @@
 # main text of home
 title: Dan Sosa
-bio: NLP + AI + Biomedical Data Scientist by day,\nCulinary Musician by night.
+bio: NLP + AI + Biomedical Data Scientist by day; Culinary Musician by night.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -65,7 +65,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 bio: true
 research: true
 creations: true
