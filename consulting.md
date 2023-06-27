@@ -4,42 +4,48 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h1> Augmenting Human Health and Happiness with Principled AI </h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> If you would like to work together, please contact me at aiconsulting@dansosa.me </p>
 
-<h2>Skills</h2>
+<p> AI is a powerful toolbox full of tools that can be wielded for awesome impact. I am confident that when used correctly, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can create thoughtful solutions to problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to super-charge human wellness. </p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<h2> Services </h2>
+
+<p> As an AI consultant, I am glad to help work together on technical strategy and solution development. Some ways that I can help include: </p>
+
+<ul class=“service-list”>
+    <li>Strategy consulting</li>
+    <li>Technical due diligence (including scientific literature)</li>
+    <li>Data pipeline development</li>
+    <li>Data pipeline development</li>
+    <li>Css Frameworks (Bootstrap, Foundation)</li>
+    <li>Javascript (Design Patterns, Testes)</li>
+    <li>AngularJS - ReactJS</li>
+    <li>Grunt - Gulp - Yeoman</li>
+    <li>Git</li>
+    <li>PHP</li>
+    <li>Python</li>
+    <li>MySQL - MongoDB</li>
+    <li>Scrum and Kanban</li>
+    <li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2> Skills - Technical </h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+    <li>Python development and packaging</li>
+    <li>Deep learning (PyTorch, HuggingFace)</li>
+    <li>Statistical computing (R, SciKit-Learn)</li>
+    <li>Data visualization</li>
+</ul>
+
+<h2> Biomedical Subject Matter Expertise (non-AI) </h2>
+
+<ul>
+    <li>Molecular Biology</li>
+    <li>Knowledge Engineering (ontology development, knowledge inference)</li>
+    <li>Genomics</li>
+    <li>Clinical Informatics</li>
+    <li>Image Informatics</li>
 </ul>
