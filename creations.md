@@ -17,7 +17,7 @@ layout: page
     <li> Daniel N. Sosa, Rogier Hintzen, Alex de Giorgio, Julien Fauqueur, Mark Davies, Jake Lever, Russ B. Altman, “Associating Biological Context with Protein-Protein Interactions through Text Mining at PubMed Scale.” In review. </li>
     <li> Daniel N. Sosa, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery.” In preparation. </li>
     <li> Margaret Guo*, Daniel N. Sosa*, and Russ B. Altman, “<a href=“https://pubmed.ncbi.nlm.nih.gov/34849568/”>Challenges and Opportunities in Network-Based Solutions for Biological Questions</a>." Briefings in Bioinformatics 23(1):1-4, 2022. </li>
-    <li> Daniel N. Sosa, Binbin Chen, Amit Kaushal, Adam Lavertu, Jake Lever, Stefano Rensi, and Russ B. Altman. “<a href=“https://pubmed.ncbi.nlm.nih.gov/33486067/”>Repurposing Biomedical Informaticians for COVID-19</a>." Journal of Biomedical Informatics 115:1-3, 2021.
+    <li> Daniel N. Sosa, Binbin Chen, Amit Kaushal, Adam Lavertu, Jake Lever, Stefano Rensi, and Russ B. Altman. “<a href=“https://pubmed.ncbi.nlm.nih.gov/33486067/”>Repurposing Biomedical Informaticians for COVID-19</a>." Journal of Biomedical Informatics 115:1-3, 2021. </li>
 </ul>
 
 <h2> Artistic Works </h2>
