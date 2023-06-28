@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<h1> Creating Joy with at the Intersection of AI+Knowledge </h1>
+<h1> Creating Joy at the Intersection of AI+Knowledge </h1>
 
 <p> For me, life is all about finding the balance between consumption and production. Below are some of my creations, both technical and artistic, equally meaningful. Enjoy!</p>
 
