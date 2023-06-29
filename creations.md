@@ -8,7 +8,7 @@ layout: page
 
 <p> For me, life is all about finding the balance between consumption and production. Below are some of my creations, both academic and artistic, equally meaningful. Enjoy! </p>
 
-<h2> Academic Works </h2>
+<h2> Academic Works </h2> 
 
 <ul>
     <li> <strong>Daniel N. Sosa*</strong>, Alex Derry*, Margaret Guo*, Eric Wei, Connor Brinton, and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/31797619/'>A Literature-Based Knowledge Graph Embedding Method for Identifying Drug Repurposing Opportunities in Rare Diseases</a>," Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing, vol. 25, pp. 463–474, 2020. 
