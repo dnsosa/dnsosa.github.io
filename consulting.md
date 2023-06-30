@@ -14,7 +14,7 @@ layout: page
 
 <p> As an AI consultant, I am glad to help work together on technical strategy and solution development. Some ways that I can help include: </p>
 
-<ul class=“service-list”>
+<ul>
     <li>Strategy consulting</li>
     <li>Technical due diligence (including scientific literature)</li>
     <li>Data pipeline development</li>
