@@ -17,7 +17,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/ThreeCitiesPages.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ThreeCitiesPages.png">
     </div>
 </div>
 
@@ -33,7 +33,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/JazzSchematic.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/JazzSchematic.png">
     </div>
 </div>
 
@@ -49,7 +49,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/DropTheMic.jpeg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/DropTheMic.jpeg">
     </div>
 </div>
 
@@ -65,7 +65,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/Wonder.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/Wonder.png">
     </div>
 </div>
 
