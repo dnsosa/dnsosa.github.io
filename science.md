@@ -3,11 +3,11 @@ title: Science
 layout: page
 ---
 
-<h1> Creating Joy at the Intersection of AI+Knowledge </h1>
+<h1> Mobilizing the World’s Knowledge to Drive Innovation </h1>
 
-<p> For me, life is all about finding the balance between consumption and production. Below are some of my creations, both academic and artistic, equally meaningful. Enjoy! </p>
+<h3> Life at the intersection of NLP + Networks + Knowledge Engineering + Data Science </h3>
 
-<h2> Academic Works </h2> 
+<p> My scientific area of expertise is on extracting insights from large corpora of text, representing knowledge, and connecting the dots to drive innovation. For my PhD, I leveraged my background in molecular biology to apply this framework to the complex domain of drug discovery. In my thesis, I demonstrated how extracting a metascientific web of knowledge from published research literature can uncover drug candidates to repurpose as new treatments. </p>
 
 <div class="side-by-side">
     <div class="toleft">
