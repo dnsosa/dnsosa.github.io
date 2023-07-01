@@ -2,7 +2,6 @@
 title: Science 
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h1> Creating Joy at the Intersection of AI+Knowledge </h1>
 
