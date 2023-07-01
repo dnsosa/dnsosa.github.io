@@ -67,7 +67,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 # about: true
 # my_bio: true
-research: true
+science: true
 art: true
 consulting: true
 contact: true
