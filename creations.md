@@ -12,7 +12,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/RepurposingPaths.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/RepurposingPaths.png">
     </div>
 
     <div class="toright">
@@ -28,7 +28,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/ContextContraOverview.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
     </div>
 
     <div class="toright">
@@ -44,7 +44,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class=“image" src="https://dnsosa.github.io/indigo/assets/images/ContraClaimsCurricula.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsCurricula.png">
     </div>
 
     <div class="toright">
@@ -60,7 +60,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/LitContextNetworks.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/LitContextNetworks.png">
     </div>
 
     <div class="toright">
@@ -76,7 +76,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/SemanticsTopologyPipeline.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/SemanticsTopologyPipeline.png">
     </div>
 
     <div class="toright">
@@ -92,7 +92,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/NetworkSchematic.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/NetworkSchematic.png">
     </div>
 
     <div class="toright">
@@ -108,7 +108,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/indigo/assets/images/CovidLaptop.jpg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/CovidLaptop.jpg">
     </div>
 
     <div class="toright">
