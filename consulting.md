@@ -2,7 +2,6 @@
 title: Consulting 
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h1> Augmenting Human Health and Happiness with Principled AI </h1>
 
