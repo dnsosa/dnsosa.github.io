@@ -86,7 +86,7 @@ layout: page
             <strong>Daniel N. Sosa</strong>, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery." In preparation.
         </p>
         <p> 
-            One of the great powers of creating knowledge systems is the ability to discovery new knowledge automatically, but we need to make sure that these systems are behaving accurately and intuitively and not relying on biasing factors like how “central” some knowledge is in the network of knowledge.
+            While knowledge systems have great potential for discovery, using embedding-based methods for inference may result in confounding by network structure instead of emulating logic-like behavior for prediction.       
         </p>
     </div>
 </div>
@@ -102,7 +102,7 @@ layout: page
             Margaret Guo*, <strong>Daniel N. Sosa* </strong>, and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/34849568/'>Challenges and Opportunities in Network-Based Solutions for Biological Questions</a>." Briefings in Bioinformatics, 2022.
         </p>
         <p> 
-            Networks are excellent tools in the tool kit for modeling knowledge of interacting entities such as genes, proteins, drugs, and diseases in a systems biological framework, but we must be diligent that these methods do not become too divorced from the reality of the systems they model.
+            Networks are excellent for modeling knowledge of interacting entities, but for biological systems we must be diligent that these models don’t stray too far from reality.
         </p>
     </div>
 </div>
@@ -118,7 +118,7 @@ layout: page
             <strong>Daniel N. Sosa</strong>, Binbin Chen, Amit Kaushal, Adam Lavertu, Jake Lever, Stefano Rensi, and Russ B. Altman. "<a href='https://pubmed.ncbi.nlm.nih.gov/33486067/'>Repurposing Biomedical Informaticians for COVID-19</a>." Journal of Biomedical Informatics, 2021.
         </p>
         <p> 
-            Biomedical informaticians cultivate a sophisticated and diverse toolkit comprising AI, data science, networks, EHRs, imaging, genomics, pharmacology, and more. This work showcases several vignettes of how we are poised to meet the moment's crisis, whether it be putting out technical fires at the office or pivoting research to address an emergent global pandemic.
+            Biomedical informaticians cultivate a sophisticated toolkit of AI, data science, genomics, electronic health record (EHR) analysis, computational imaging, and more, and during the COVID lockdown, informaticians repurposed their tools to help meet the moment. 
         </p>
     </div>
 </div>
