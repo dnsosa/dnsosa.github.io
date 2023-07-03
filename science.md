@@ -38,7 +38,7 @@ layout: page
             <strong>Daniel N. Sosa</strong> and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/35817308/'>Contexts and Contradictions: A Roadmap for Computational Drug Repurposing with Knowledge Inference</a>." Briefings in Bioinformatics, 2022.
         </p>
         <p> 
-            Creating knowledge representations from massive bodies of text to drive innovation (e.g. using scientific literature to drive drug discovery) is tricky. When the knowledge source is science itself, the problem is doubly tricky as science is highly dynamic and knowledge is very contextual.
+            Creating knowledge graphs from massive bodies of text is tricky, and biomedical science is a particular challenging domain because knowledge is dynamic and highly contextual. 
         </p>
     </div>
 </div>
@@ -54,7 +54,7 @@ layout: page
             <strong>Daniel N. Sosa</strong>, Malavika Suresh, Christopher G. Potts, and Russ B. Altman, "<a href='https://arxiv.org/abs/2212.09867'>Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature</a>." Association for Computational Linguistics, 2023.
         </p>
         <p> 
-            Large language models (LLMs) are well-poised to identify inconsistencies in large corpora of text (think "misinformation detection"). In this work, we demonstrate a use case where LLMs can quickly help annotators detect contradictory claims across thousands of papers about how candidate drug treatments were/were not effective for COVID-19.
+            Large language models (LLMs) can be used to identify inconsistencies in large corpora of text (e.g. <em> misinformation detection </em>), and we show how they can quickly help annotators detect contradictory claims about the efficacy of candidate drugs for COVID-19 treatment across thousands of papers.
         </p>
     </div>
 </div>
@@ -70,7 +70,7 @@ layout: page
             <strong>Daniel N. Sosa</strong>, Rogier Hintzen, Alex de Giorgio, Julien Fauqueur, Mark Davies, Jake Lever, Russ B. Altman, "Associating Biological Context with Protein-Protein Interactions through Text Mining at PubMed Scale." In review.
         </p>
         <p> 
-            Knowledge representations can be improved when they bake in key contextual information (such as cell and tissue types in the biological context), and when there is a lot of structure in the underlying text sources (e.g. scientific papers), feature-based machine learning approaches are great for the context-augmentation task.
+            In appealing to the KISS principle, we demonstrate a feature-based approach for associating essential context found in biomedical literature (cell type and tissue information) with extracted protein-protein interactions to enrich biological knowledge graphs.
         </p>
     </div>
 </div>
