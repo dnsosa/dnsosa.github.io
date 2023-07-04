@@ -36,7 +36,7 @@ layout: page
         <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
         -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.jpg">
     </div>
 
     <div class="toright">
