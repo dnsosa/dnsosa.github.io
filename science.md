@@ -15,55 +15,17 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <!--
-        <img class="image" src="https://dnsosa.github.io/assets/images/RepurposingPaths.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/SemanticsTopologyPipeline.png">
         -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentPathsIcon.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/YarnNetworkIcon.png">
     </div>
 
     <div class="toright">
         <p>  
-            <strong>Daniel N. Sosa*</strong>, Alex Derry*, Margaret Guo*, Eric Wei, Connor Brinton, and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/31797619/'>A Literature-Based Knowledge Graph Embedding Method for Identifying Drug Repurposing Opportunities in Rare Diseases</a>." Pacific Symposium on Biocomputing, 2020. 
+            <strong>Daniel N. Sosa</strong>, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery." In preparation.
         </p>
         <p> 
-            By extracting knowledge from millions of biomedical papers and connecting the dots, we can predict how drugs already in the pharmacy can have a second life to address unmet clinical needs. 
-        </p>
-    </div>
-</div>
-
-
-<div class="side-by-side">
-    <div class="toleft">
-        <!--
-        <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
-        -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.png">
-    </div>
-
-    <div class="toright">
-        <p>  
-            <strong>Daniel N. Sosa</strong> and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/35817308/'>Contexts and Contradictions: A Roadmap for Computational Drug Repurposing with Knowledge Inference</a>." Briefings in Bioinformatics, 2022.
-        </p>
-        <p> 
-            Creating knowledge graphs from massive bodies of text is tricky, and biomedical science is a particular challenging domain because knowledge is dynamic and highly contextual. 
-        </p>
-    </div>
-</div>
-
-
-<div class="side-by-side">
-    <div class="toleft">
-        <!--
-        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsCurricula.png">
-        -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsIcon.png">
-    </div>
-
-    <div class="toright">
-        <p>  
-            <strong>Daniel N. Sosa</strong>, Malavika Suresh, Christopher G. Potts, and Russ B. Altman, "<a href='https://arxiv.org/abs/2212.09867'>Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature</a>." Association for Computational Linguistics, 2023.
-        </p>
-        <p> 
-            Large language models (LLMs) can be used to identify inconsistencies in large corpora of text (e.g. <em> misinformation detection </em>), and we show how they can quickly help annotators detect contradictory claims about the efficacy of candidate drugs for COVID-19 treatment across thousands of papers.
+            While knowledge systems have great potential for discovery, using embedding-based methods for inference may result in confounding by network structure instead of emulating logic-like behavior for prediction.       
         </p>
     </div>
 </div>
@@ -91,17 +53,36 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
         <!--
-        <img class="image" src="https://dnsosa.github.io/assets/images/SemanticsTopologyPipeline.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsCurricula.png">
         -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/YarnNetworkIcon.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsIcon.png">
     </div>
 
     <div class="toright">
         <p>  
-            <strong>Daniel N. Sosa</strong>, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery." In preparation.
+            <strong>Daniel N. Sosa</strong>, Malavika Suresh, Christopher G. Potts, and Russ B. Altman, "<a href='https://arxiv.org/abs/2212.09867'>Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature</a>." Association for Computational Linguistics, 2023.
         </p>
         <p> 
-            While knowledge systems have great potential for discovery, using embedding-based methods for inference may result in confounding by network structure instead of emulating logic-like behavior for prediction.       
+            Large language models (LLMs) can be used to identify inconsistencies in large corpora of text (e.g. <em> misinformation detection </em>), and we show how they can quickly help annotators detect contradictory claims about the efficacy of candidate drugs for COVID-19 treatment across thousands of papers.
+        </p>
+    </div>
+</div>
+
+
+<div class="side-by-side">
+    <div class="toleft">
+        <!--
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.png">
+    </div>
+
+    <div class="toright">
+        <p>  
+            <strong>Daniel N. Sosa</strong> and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/35817308/'>Contexts and Contradictions: A Roadmap for Computational Drug Repurposing with Knowledge Inference</a>." Briefings in Bioinformatics, 2022.
+        </p>
+        <p> 
+            Creating knowledge graphs from massive bodies of text is tricky, and biomedical science is a particular challenging domain because knowledge is dynamic and highly contextual. 
         </p>
     </div>
 </div>
@@ -137,6 +118,25 @@ layout: page
         </p>
         <p> 
             Biomedical informaticians cultivate a sophisticated toolkit of AI, data science, genomics, electronic health record (EHR) analysis, computational imaging, and more, and during the COVID lockdown, informaticians repurposed their tools to help meet the moment. 
+        </p>
+    </div>
+</div>
+
+
+<div class="side-by-side">
+    <div class="toleft">
+        <!--
+        <img class="image" src="https://dnsosa.github.io/assets/images/RepurposingPaths.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentPathsIcon.png">
+    </div>
+
+    <div class="toright">
+        <p>  
+            <strong>Daniel N. Sosa*</strong>, Alex Derry*, Margaret Guo*, Eric Wei, Connor Brinton, and Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/31797619/'>A Literature-Based Knowledge Graph Embedding Method for Identifying Drug Repurposing Opportunities in Rare Diseases</a>." Pacific Symposium on Biocomputing, 2020. 
+        </p>
+        <p> 
+            By extracting knowledge from millions of biomedical papers and connecting the dots, we can predict how drugs already in the pharmacy can have a second life to address unmet clinical needs. 
         </p>
     </div>
 </div>
