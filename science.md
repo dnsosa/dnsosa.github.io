@@ -14,7 +14,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/RepurposingPaths.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentPathsIcon.png">
     </div>
 
     <div class="toright">
@@ -30,7 +33,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.png">
     </div>
 
     <div class="toright">
@@ -46,7 +52,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsCurricula.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContraClaimsIcon.png">
     </div>
 
     <div class="toright">
@@ -62,7 +71,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/LitContextNetworks.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/ContextNetworkIcon.png">
     </div>
 
     <div class="toright">
@@ -78,7 +90,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/SemanticsTopologyPipeline.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/YarnNetworkIcon.jpg">
     </div>
 
     <div class="toright">
@@ -94,7 +109,10 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
+        <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/NetworkSchematic.png">
+        -->
+        <img class="image" src="https://dnsosa.github.io/assets/images/BiologyNetworkIcon.png">
     </div>
 
     <div class="toright">
