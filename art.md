@@ -52,7 +52,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/assets/images/DropTheMic.jpeg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/DropTheMicIcon3.png">
     </div>
 </div>
 
@@ -68,7 +68,7 @@ layout: page
     </div>
 
     <div class="toright">
-        <img class="image" src="https://dnsosa.github.io/assets/images/Wonder.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/WonderEPPhotos.png">
     </div>
 </div>
 
