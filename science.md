@@ -36,7 +36,7 @@ layout: page
         <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/ContextContraOverview.png">
         -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.jpg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/TreatmentsHands.png">
     </div>
 
     <div class="toright">
@@ -93,7 +93,7 @@ layout: page
         <!--
         <img class="image" src="https://dnsosa.github.io/assets/images/SemanticsTopologyPipeline.png">
         -->
-        <img class="image" src="https://dnsosa.github.io/assets/images/YarnNetworkIcon.jpg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/YarnNetworkIcon.png">
     </div>
 
     <div class="toright">
@@ -128,7 +128,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/assets/images/CovidLaptop.jpg">
+        <img class="image" src="https://dnsosa.github.io/assets/images/CovidLaptop.png">
     </div>
 
     <div class="toright">
