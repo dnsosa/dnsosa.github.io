@@ -16,18 +16,7 @@ layout: page
 <ul>
     <li>Strategy consulting</li>
     <li>Technical due diligence (including scientific literature)</li>
-    <li>Data pipeline development</li>
-    <li>Data pipeline development</li>
-    <li>Css Frameworks (Bootstrap, Foundation)</li>
-    <li>Javascript (Design Patterns, Testes)</li>
-    <li>AngularJS - ReactJS</li>
-    <li>Grunt - Gulp - Yeoman</li>
-    <li>Git</li>
-    <li>PHP</li>
-    <li>Python</li>
-    <li>MySQL - MongoDB</li>
-    <li>Scrum and Kanban</li>
-    <li>TDD e Continuous Integration</li>
+    <li>Data analysis including data pipeline strategy and development</li>
 </ul>
 
 <h2> Skills - Technical </h2>
