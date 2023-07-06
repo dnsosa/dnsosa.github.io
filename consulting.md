@@ -5,6 +5,10 @@ layout: page
 
 <h1> Augmenting Human Health and Happiness with Principled AI </h1>
 
+<p class="quote-like">
+  <em><strong>Generative AI</strong> has generated a huge buzz, which will undoubtedly address to many impactful needs but also lead to many <strong>false starts</strong>. <br> <br> As an LLM expert, I am here to help you cut through the <strong>technical noise</strong> and hone in your <strong>shots on goal</strong>.</em>
+</p>
+
 <div class="btn-div">
     <a href="mailto:contact@dansosa.me" class="btn btn--contact">Let's Collaborate</a>
 </div>
