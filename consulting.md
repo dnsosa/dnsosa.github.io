@@ -16,7 +16,7 @@ layout: page
 
 <p style="margin-top:7.5em;"> AI is a powerful toolbox full of tools that can be wielded for awesome impact. When used appropriately, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can give rise to thoughtful solutions to complex problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to enrich human life. </p>
 
-<h2> AI Consulting Services </h2>
+<h2>AI Consulting Services</h2>
 
 <p> As an AI consultant, I am glad to help work together on technical strategy and solution development. Some ways that I can help include: </p>
 
@@ -28,7 +28,7 @@ layout: page
     <li>Technical due diligence for evaluating new AI opportunities, especially for LLM-based and biomedical AI applications</li>
 </ul>
 
-<h2> Technical skills</h2>
+<h2>Technical Depth</h2>
 
 <ul>
     <li>NLP and deep learning tools, including LLMs (PyTorch, HuggingFace, NLTK, SpaCy, Gensim)</li>
@@ -38,7 +38,7 @@ layout: page
     <li>Scientific writing and communication for diverse audiences</li>
 </ul>
 
-<h2>Subject Matter Expertise (non-AI) </h2>
+<h2>Subject Matter Expertise (non-AI)</h2>
 
 <ul>
     <li>Molecular Biology</li>
