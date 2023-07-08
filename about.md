@@ -7,7 +7,7 @@ layout: page
 </div>
 
 <p>
-Howdy, thanks for stopping by! I’m Dan, an AI researcher and biomedical informatician by training hailing from St. Paul, Minnesota. I love creating technical and artistic solutions to address interesting problems starting from a blank canvas. I am purely mission-driven and passionate about work that helps people live better, more joyful lives. I’m happiest when I get to learn a lot on the job and when I get to make others smile. 
+Hey, thanks for stopping by! I’m Dan, an AI researcher and biomedical informatician by training hailing from St. Paul, Minnesota. I love creating technical and artistic solutions to tackle interesting problems starting from a blank canvas. I am purely mission-driven and passionate about work that helps people live better, more joyful lives. I’m happiest when I get to learn a lot on the job and when I get to make others smile. 
 </p>
 
 <p>
@@ -15,7 +15,7 @@ I love growing with my collaborators and creating supportive communities among f
 </p>
 
 <p>
-I have had the great pleasure of working with many wonderful teammates. Some of my work experiences have included conducting research with leaders in AI-driven drug discovery, pursuing multiple research projects with a global coalition trying to make sense of emerging COVID-19 research, contributing to biometrics and informatics efforts in multiple pharmaceutical companies, protein engineering of precise fluorescence-based sensors in the wet lab, and developing software frameworks for a healthcare robotics company. Most recently, I conducted research under the advising of Russ Altman, investigating the automated creation of pharmacological knowledge representations from unstructured texts and using these models to drive drug-discovery.
+I have had the great pleasure of working with many wonderful teammates. Some of my work experiences have included developing NLP-powered knowledge frameworks with leaders in AI-driven drug discovery, pursuing multiple projects with a global coalition trying to make sense of emerging COVID-19 research, developing informatics tools and conducting biometrics analyses for multiple pharmaceutical companies, protein engineering of fluorescence-based high-precision sensors in the wet lab, and engineering software frameworks for a healthcare robotics company. Most recently, I conducted research under the advising of Russ Altman, investigating the automated creation of pharmacological knowledge representations from unstructured scientific literature and using these models to empower drug repurposing to address clinical need.
 </p>
 
 <p>
