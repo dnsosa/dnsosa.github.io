@@ -8,7 +8,7 @@ layout: page
     Drive Innovation
 </h1>
 
-<h3 style="text-align:center"> Life at the Intersection of NLP + Networks + Knowledge + AI </h3>
+<h3 style="text-align:center"> Reimagining the Web with NLP + Networks + Knowledge + AI </h3>
 
 <p> My expertise is on extracting insights from large corpora of text, representing knowledge, and connecting the dots to drive innovation. For my PhD, I applied this framework to the complex domain of drug discovery. In my thesis, I demonstrated how extracting a metascientific web of knowledge from research literature can uncover drug candidates to repurpose as new treatments. </p>
 
