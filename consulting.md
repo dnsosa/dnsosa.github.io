@@ -31,7 +31,7 @@ layout: page
 <h2>Technical Depth</h2>
 
 <ul>
-    <li>NLP and deep learning tools, including LLMs (PyTorch, HuggingFace, NLTK, SpaCy, Gensim)</li>
+    <li>NLP, deep learning, and generative AI tools, including LLMs (PyTorch, HuggingFace, NLTK, SpaCy, Gensim)</li>
     <li>Network methods and graph neural network approaches (NetworkX, Neo4j, Cypher).</li>
     <li>Statistical computing (R, NumPy, Pandas, Sklearn) and data visualization (ggplot2, Matplotlib)</li>
     <li>Python development, including packaging (TravisCI, Sphinx documentation, PyTest testing, flake8 style, Tox automation, PyPI)</li>
