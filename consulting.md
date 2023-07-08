@@ -14,7 +14,7 @@ layout: page
     <a href="mailto:contact@dansosa.me" class="btn btn--contact">Let's Collaborate!</a>
 </div>
 
-<p style="margin-top:7.5em;"> AI is a powerful toolbox full of tools that can be wielded for awesome impact. When used appropriately, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can give rise to thoughtful solutions to complex problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to enrich human life. </p>
+<p style="margin-top:6em;"> AI is a powerful toolbox full of tools that can be wielded for awesome impact. When used appropriately, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can give rise to thoughtful solutions to complex problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to enrich human life. </p>
 
 <h2>AI Consulting Services</h2>
 
