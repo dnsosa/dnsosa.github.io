@@ -14,16 +14,16 @@ layout: page
     <a href="mailto:contact@dansosa.me" class="btn btn--contact">Let's Collaborate!</a>
 </div>
 
-<p style="margin-top:3em;"> AI is a powerful toolbox full of tools that can be wielded for awesome impact. When used appropriately, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can give rise to thoughtful solutions to complex problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to enrich human life. </p>
+<p style="margin-top:7.5em;"> AI is a powerful toolbox full of tools that can be wielded for awesome impact. When used appropriately, AI will help humankind live happier, healthier lives. Through my technical training in NLP (including LLMs and generative AI), knowledge systems, networks, and statistics, and my domain expertise in molecular biology, pharmacology, and genomics, I have seen how AI/ML power tools can give rise to thoughtful solutions to complex problems where there’s always more than meets the eye. I’m excited to collaborate with you to envision how we can use AI to enrich human life. </p>
 
-<h2> Services </h2>
+<h2> AI Consulting Services </h2>
 
 <p> As an AI consultant, I am glad to help work together on technical strategy and solution development. Some ways that I can help include: </p>
 
 <ul>
     <li>Project formulation and determining if/how AI techniques can be used to achieve strategic goals</li>
-    <li>Application design for from data ingestion to inference for generating value</li>
-    <li>Data analysis for interpreting model performance, uncovering biases, and discovering new opportunities to add value</li>
+    <li>Application design for from data ingestion to inference for creating value</li>
+    <li>Data analysis for interpreting model performance, uncovering biases, and discovering technological opportunities</li>
     <li>Training sessions about AI principles or emergent AI technologies</li>
     <li>Technical due diligence for evaluating new AI opportunities, especially for LLM-based and biomedical AI applications</li>
 </ul>
@@ -31,10 +31,10 @@ layout: page
 <h2> Technical skills</h2>
 
 <ul>
-    <li>Deep learning and LLMs (PyTorch, HuggingFace)</li>
-    <li>Python development, including packaging (CI)</li>
-    <li>Statistical computing (R, NumPy, Pandas, Sklearn)</li>
-    <li>Data visualization</li>
+    <li>NLP and deep learning tools, including LLMs (PyTorch, HuggingFace, NLTK, SpaCy, Gensim)</li>
+    <li>Network methods and graph neural network approaches (NetworkX, Neo4j, Cypher).</li>
+    <li>Statistical computing (R, NumPy, Pandas, Sklearn) and data visualization (ggplot2, Matplotlib)</li>
+    <li>Python development, including packaging (TravisCI, Sphinx documentation, PyTest testing, flake8 style, Tox automation, PyPI)</li>
     <li>Scientific writing and communication for diverse audiences</li>
 </ul>
 
@@ -44,6 +44,6 @@ layout: page
     <li>Molecular Biology</li>
     <li>Knowledge Engineering (inc. Ontology Development, Knowledge Inference)</li>
     <li>Computational Genomics/Statistical Genetics</li>
-    <li>Image Informatics</li>
-    <li>Clinical Informatics</li>
+    <li>Image Informatics (especially microscopy and radiology)</li>
+    <li>Clinical Informatics (EHRs, clinical notes)</li>
 </ul>
