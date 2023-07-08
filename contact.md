@@ -6,10 +6,8 @@ layout: page
   <img src="https://dnsosa.github.io/assets/images/DanGlasses.png" width="400" class="rounded"/>
 </div>
 
-<div style="text-align: center;">
-    <p>
-Please don't hesitate to <b><a href="mailto:contact@dansosa.me">reach out</a></b> if you would like to learn more about any of my previous projects or are interested in working together in the future.
-    </p>
+<div class="contact-para">
+    <p>Please don't hesitate to <a href="mailto:contact@dansosa.me"><b>reach out</b></a> if you would like to learn more about any of my previous projects or are interested in working together in the future.</p>
 </div>
 
 <div class="contact-image">
