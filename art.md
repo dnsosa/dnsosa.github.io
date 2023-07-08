@@ -8,7 +8,7 @@ layout: page
     Music, Data, and Technology
 </h1>
 
-<p>Growing up at the piano, music has always been a second language to me. Rather than seeing art and technology mutually exclusive, I seek beauty in moments when these two spheres overlap. Much as technology will extend human intelligence, so will art extend human emotion. At the intersection of music, data, and technology, we can dream up new worlds for creating joy, play, and awe.</p> 
+<p>Growing up at the piano, music has always been a second language to me. Rather than seeing art and technology as mutually exclusive, I seek beauty in the spaces where these two overlap. Much as technology will extend human intelligence, so will art extend human emotion. At the intersection of music, data, and technology, we can dream up new worlds for creating joy, awe, and play.</p> 
 
 <p>The following are a sampling of some of my proudest creations.</p>
 
