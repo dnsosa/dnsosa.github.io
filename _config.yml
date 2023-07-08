@@ -17,7 +17,7 @@ dark-theme: false
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: 'assets/resume/CVDanSosa7_5_23_Website.pdf'
 
 url: https://dansosa.me
