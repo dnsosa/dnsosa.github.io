@@ -7,7 +7,7 @@ layout: page
 </div>
 
 <p>
-Howdy, thanks for stopping by! I’m Dan, an AI researcher and biomedical informatician by training. I love creating technical and artistic solutions to address interesting problems starting from a blank canvas. I am purely mission-driven and passionate about work that helps people live better, more joyful lives. I’m happiest when I get to learn a lot on the job and when I get to make others smile. 
+Howdy, thanks for stopping by! I’m Dan, an AI researcher and biomedical informatician by training hailing from St. Paul, Minnesota. I love creating technical and artistic solutions to address interesting problems starting from a blank canvas. I am purely mission-driven and passionate about work that helps people live better, more joyful lives. I’m happiest when I get to learn a lot on the job and when I get to make others smile. 
 </p>
 
 <p>
@@ -23,7 +23,7 @@ I hold a Ph.D. in Biomedical Informatics and an M.S. in Statistics from Stanford
 </p>
 
 <p>
-All my best to you on your journey! <br>
+I wish you all my best on your continued journey! <br>
 - Dan
 </p>
 
