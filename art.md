@@ -10,7 +10,7 @@ layout: page
 
 <p>Growing up at the piano, music has always been a second language to me. Rather than seeing art and technology as mutually exclusive, I seek beauty in the spaces where these two overlap. Much as technology will extend human intelligence, so will art extend human emotion. At the intersection of music, data, and technology, we can dream up new worlds for creating joy, awe, and play.</p> 
 
-<p>The following are a sampling of some of my proudest creations.</p>
+<p>The following are a sampling of some of my proudest creations, but the journey is just beginning.</p>
 
 <div class="side-by-side">
     <div class="toleft">
