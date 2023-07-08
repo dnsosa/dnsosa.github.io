@@ -10,7 +10,9 @@ layout: page
 
 <h3 style="text-align:center"> Reimagining the Web with NLP + Networks + Knowledge + AI </h3>
 
-<p> I'm excited by science that reimagines the Web and how humans navigate knowledge in the world. My expertise is on extracting insights from large corpora of text, structuring knowledge, and connecting the dots to drive innovation. For my PhD, I applied this framework to the complex domain of drug discovery. In my thesis, I demonstrated how extracting a metascientific web of knowledge from research literature can uncover drug candidates to repurpose as new treatments. </p>
+<p> 
+    I'm excited by science that reimagines the Web and how humans navigate knowledge in the world. My expertise is on extracting insights from large corpora of text, structuring knowledge, and connecting the dots to drive innovation. For my PhD, I applied this framework to the complex domain of drug discovery. In my thesis, I demonstrated how extracting a metascientific web of knowledge from research literature can uncover drug candidates to repurpose as new treatments. 
+</p>
 
 <div class="side-by-side">
     <div class="toleft">
