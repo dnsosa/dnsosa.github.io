@@ -6,7 +6,7 @@ layout: page
   <img src="https://dnsosa.github.io/assets/images/DanGlasses.png" width="400" class="rounded"/>
 </div>
 
-<p style="top-margin: 3em;">
+<p style="top-margin: 7em;">
 Hey, thanks for stopping by! I’m Dan, an AI researcher and biomedical informatician by training hailing from St. Paul, Minnesota. I love creating technical and artistic solutions to tackle interesting problems starting from a blank canvas. I am purely mission-driven and passionate about work that helps people live better, more joyful lives. I’m happiest when I get to learn a lot on the job and when I get to make others smile. 
 </p>
 
