@@ -24,7 +24,7 @@ layout: page
 
     <div class="toright">
         <p>  
-            <strong>Daniel N. Sosa</strong>, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery." In preparation.
+            <strong>Daniel N. Sosa</strong>, Georgiana Neculae, Julien Fauquer, Russ B. Altman, "<a href='https://link.springer.com/article/10.1186/s13326-024-00308-z'>Elucidating the Semantics-Topology Trade-off for Knowledge Inference-Based Pharmacological Discovery</a>." Journal of Biomedical Semantics, 2024.
         </p>
         <p> 
             While knowledge systems have great potential for discovery, using embedding-based methods for inference may result in confounding by network structure instead of emulating logic-like behavior for prediction.       
@@ -43,7 +43,7 @@ layout: page
 
     <div class="toright">
         <p>  
-            <strong>Daniel N. Sosa</strong>, Rogier Hintzen, Alex de Giorgio, Julien Fauqueur, Mark Davies, Jake Lever, Russ B. Altman, "Associating Biological Context with Protein-Protein Interactions through Text Mining at PubMed Scale." In review.
+            <strong>Daniel N. Sosa</strong>, Rogier Hintzen, Alex de Giorgio, Julien Fauqueur, Mark Davies, Jake Lever, Russ B. Altman, "<a href='https://pubmed.ncbi.nlm.nih.gov/37572825/'>Associating Biological Context with Protein-Protein Interactions through Text Mining at PubMed Scale</a>." Journal of Biomedical Informatics, 2023.
         </p>
         <p> 
             In appealing to the KISS principle, we demonstrate a feature-based approach for associating essential context found in biomedical literature (cell type and tissue information) with extracted protein-protein interactions to enrich biological knowledge graphs.
@@ -62,7 +62,7 @@ layout: page
 
     <div class="toright">
         <p>  
-            <strong>Daniel N. Sosa</strong>, Malavika Suresh, Christopher G. Potts, and Russ B. Altman, "<a href='https://arxiv.org/abs/2212.09867'>Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature</a>." Association for Computational Linguistics, 2023.
+            <strong>Daniel N. Sosa</strong>, Malavika Suresh, Christopher G. Potts, and Russ B. Altman, "<a href='https://aclanthology.org/2023.acl-short.61.pdf'>Detecting Contradictory COVID-19 Drug Efficacy Claims from Biomedical Literature</a>." Association for Computational Linguistics, 2023.
         </p>
         <p> 
             Large language models (LLMs) can be used to identify inconsistencies in large corpora of text (e.g. <em> misinformation detection </em>), and we show how they can quickly help annotators detect contradictory claims about the efficacy of candidate drugs for COVID-19 treatment across thousands of papers.
@@ -139,6 +139,21 @@ layout: page
         </p>
         <p> 
             By extracting knowledge from millions of biomedical papers and connecting the dots, we can predict how drugs already in the pharmacy can have a second life to address unmet clinical needs. 
+        </p>
+    </div>
+</div>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://dnsosa.github.io/assets/images/colorful-chromosome.png">
+    </div>
+
+    <div class="toright">
+        <p>  
+            Carlos P. Sosa, <strong>Daniel N. Sosa</strong>, and George Vasmatzis, "<a href='https://medcraveonline.com/MOJPB/toward-the-integration-of-mate-pair-and-rna-sequencing-to-identify-gene-fusions-in-cancer-research-a-mini-review.html'>Toward the Integration of Mate Pair and RNA Sequencing to Identify Gene Fusions in Cancer Research: a Mini Review</a>." Proteomics & Bioinformatics, 2017.
+        </p>
+        <p> 
+            Detecting chromosomal abnormalities is essential for understanding cancer pathogenesis and prescribing the right treatment. This review discusses the surprising role of RNA as a non-traditional medium for detecting structural mutations leading to expression disregulation. 
         </p>
     </div>
 </div>
