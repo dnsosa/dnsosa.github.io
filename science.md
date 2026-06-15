@@ -145,7 +145,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://dnsosa.github.io/assets/images/colorful-chromosome.png">
+        <img class="image" src="https://dnsosa.github.io/assets/images/ColorfulChromosome.png">
     </div>
 
     <div class="toright">
